@@ -14,7 +14,7 @@
 <h2 align="left">Languages</h2>
   <code><img src="https://img.icons8.com/color/48/000000/arduino.png"/></code>
   <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
-   <code><img height="40" width="40" src="[https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png](https://icons8.com/icon/20909/html-5)"></code>
+   
   
 <br>
 <br>
